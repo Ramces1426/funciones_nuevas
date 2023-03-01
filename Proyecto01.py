@@ -8,3 +8,7 @@ def deg2rad(x):
 def kgf1Nwt(x):
 	return x*9.81
 
+# Esta funcion retorna una funcion de pulgadas a centimetros 
+def in2cm(x):
+	return x*2.54
+
