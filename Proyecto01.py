@@ -8,9 +8,15 @@ def marginal(x,y):
 
 def original_function():
 	print("Este es un mensaje original")
+
+# Añadiendo documentacion a la funcion master	
+def master():
+	print("Esta funcion esta en la rama")
 	
 def suma_original(x,n)
 	return x*n
 
 def mensaje(palabra):
 	print("Este es tu nombre: ")
+
+
