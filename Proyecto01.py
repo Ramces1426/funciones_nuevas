@@ -18,4 +18,3 @@ def suma_original(x,n)
 
 def mensaje(palabra):
 	print("Este es tu nombre: ")
-
