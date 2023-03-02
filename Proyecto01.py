@@ -8,3 +8,6 @@ def marginal(x,y):
 	
 def original_function():
 	print("Este es un mensaje original")
+	
+def master():
+	print("Esta funcion esta en la rama master")
