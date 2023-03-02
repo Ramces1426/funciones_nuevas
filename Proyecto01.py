@@ -13,4 +13,4 @@ def suma_original(x,n)
 	return x*n
 
 def mensaje(palabra):
-	print("Este es tu nombre: ",palabra)
+	print("Este es tu nombre: ")
