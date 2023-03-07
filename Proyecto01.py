@@ -15,7 +15,7 @@ def original_function():
 
 
 def master():
-    print("Esta funcion esta en la rama")
+    print("Esta funcion esta en la rama 2.0")
 
 
 def suma_original(x, n):
